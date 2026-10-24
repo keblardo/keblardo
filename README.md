@@ -4,7 +4,7 @@
 payments, Google Play release and the content that markets them. I work every day with AI coding agents (Claude Code, Codex),
 running several products in parallel.
 
-🌐 **Portfolio:** [portafolio-cristian-green.vercel.app](https://portafolio-cristian-green.vercel.app) · 📄 **CV:** [English](CV.md) · [Español](CV.es.md) · ✉️ cristiancelie07@gmail.com · 📍 Argentina, remote
+🌐 **Portfolio:** [cristiancelie.vercel.app](https://cristiancelie.vercel.app) · 📄 **CV:** [English](CV.md) · [Español](CV.es.md) · ✉️ cristiancelie07@gmail.com · 📍 Argentina, remote
 
 ---
 
@@ -29,7 +29,7 @@ running several products in parallel.
 
 - **TikTok [@secuencia007](https://www.tiktok.com/@secuencia007)** (SecuencIA): **11.7K followers, ~975K likes**, one video at **7.3M views**, others at 1.1M and 917K. Short AI-generated stories with my own scripts and editing.
 - **TikTok [@sinestesia777](https://www.tiktok.com/@sinestesia777)** (SinestesIA): new channel for a "What if…?" science series rendered 100% from code.
-- **AI video studio**: Remotion + three.js scenes, Whisper word-level captions and audio synthesized in Python → [ai-video-studio-showcase](https://github.com/keblardo/ai-video-studio-showcase). You can watch the videos on the [portfolio](https://portafolio-cristian-green.vercel.app/#contenido).
+- **AI video studio**: Remotion + three.js scenes, Whisper word-level captions and audio synthesized in Python → [ai-video-studio-showcase](https://github.com/keblardo/ai-video-studio-showcase). You can watch the videos on the [portfolio](https://cristiancelie.vercel.app/#contenido).
 
 ### 🧰 Smaller builds
 
